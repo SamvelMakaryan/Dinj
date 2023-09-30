@@ -247,6 +247,13 @@ h6 {
   color: #b61f4d;
 }
 
+#log-out {
+  color: #b61f4d;
+}
+
+#create-article {
+  color: #19ca6b;
+}
 
 /*--------------------------------------------------------------
 # Hero Section
@@ -1142,4 +1149,11 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+.article-form {
+  border: 1px solid #ccc;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
 }
