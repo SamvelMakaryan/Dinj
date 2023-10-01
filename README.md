@@ -1,5 +1,5 @@
 # Dinj - Your Creative Space
-![Dinj Logo](https://your-website.com/path/to/logo.png)
+![icon](https://github.com/SamvelMakaryan/Dinj/assets/123547362/d5656400-9d3f-4e31-b450-fcc4361ab161)
 
 ## Introduction
 
@@ -42,3 +42,4 @@ Before you begin, ensure you have met the following requirements:
 5. Open index.html with your browser
 
 ### View
+![Screenshot from 2023-10-01 21-02-55](https://github.com/SamvelMakaryan/Dinj/assets/123547362/4017142f-5886-415b-b52b-1539c34bb21f)
