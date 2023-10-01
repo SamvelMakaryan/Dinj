@@ -41,5 +41,5 @@ Before you begin, ensure you have met the following requirements:
 
 5. Open index.html with your browser
 
-### View
+## View
 ![Screenshot from 2023-10-01 21-02-55](https://github.com/SamvelMakaryan/Dinj/assets/123547362/4017142f-5886-415b-b52b-1539c34bb21f)
