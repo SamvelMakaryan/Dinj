@@ -1,4 +1,5 @@
 # Dinj - Your Creative Space
+![Dinj Logo](https://your-website.com/path/to/logo.png)
 
 ## Introduction
 
